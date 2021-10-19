@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "Xadrez-Console/1.0.0": {
+      "xadrez-console/1.0.0": {
         "runtime": {
-          "Xadrez-Console.dll": {}
+          "xadrez-console.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Xadrez-Console/1.0.0": {
+    "xadrez-console/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

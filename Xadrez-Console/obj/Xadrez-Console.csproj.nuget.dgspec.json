@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Weverton\\source\\repos\\Xadrez-Console\\Xadrez-Console\\Xadrez-Console.csproj": {}
+    "C:\\Users\\Weverton\\source\\repos\\Xadrez-Console\\Xadrez-Console\\xadrez-console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Weverton\\source\\repos\\Xadrez-Console\\Xadrez-Console\\Xadrez-Console.csproj": {
+    "C:\\Users\\Weverton\\source\\repos\\Xadrez-Console\\Xadrez-Console\\xadrez-console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Weverton\\source\\repos\\Xadrez-Console\\Xadrez-Console\\Xadrez-Console.csproj",
-        "projectName": "Xadrez-Console",
-        "projectPath": "C:\\Users\\Weverton\\source\\repos\\Xadrez-Console\\Xadrez-Console\\Xadrez-Console.csproj",
+        "projectUniqueName": "C:\\Users\\Weverton\\source\\repos\\Xadrez-Console\\Xadrez-Console\\xadrez-console.csproj",
+        "projectName": "xadrez-console",
+        "projectPath": "C:\\Users\\Weverton\\source\\repos\\Xadrez-Console\\Xadrez-Console\\xadrez-console.csproj",
         "packagesPath": "C:\\Users\\Weverton\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Weverton\\source\\repos\\Xadrez-Console\\Xadrez-Console\\obj\\",
         "projectStyle": "PackageReference",

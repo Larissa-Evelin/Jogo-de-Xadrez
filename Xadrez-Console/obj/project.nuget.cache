@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CJ/Z4zxQr+pe0dKh4grQD6EQAYmrQaPemoaUb4K6A4jTIz8B7E5siYqbNaD5SJnkqgzfE+adX3htUQSdm0o7Wg==",
+  "dgSpecHash": "m+9gUd1PakbQwIWlu7tZaw7ua1+rYNIOAcXJ1PywNKn6L620haDm90x+xtEybvlfuq32fSLIZhLLz/65RS6z/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Weverton\\source\\repos\\Xadrez-Console\\Xadrez-Console\\Xadrez-Console.csproj",
+  "projectFilePath": "C:\\Users\\Weverton\\source\\repos\\Xadrez-Console\\Xadrez-Console\\xadrez-console.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
